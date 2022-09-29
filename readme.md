@@ -1,7 +1,7 @@
-# Abstract team 🎏
+# Abstract team 🤖
 
 @Mahdi Elhajuojy @EL HAKIK Amina @Abdelillah Elasri
- - 🔗 [Link notion ](https://www.notion.so/Abstract-team-8eb4032a378948679c6047e197a7433a) 
+ - 🔗 [Link notion ](https://elhjuojy.notion.site/Abstract-team-8eb4032a378948679c6047e197a7433a) 
 
 # 👩🏼‍🎨 ****Maquettage du site pour l'entreprise 'Artist Time'****
 
