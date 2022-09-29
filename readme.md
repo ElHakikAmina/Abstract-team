@@ -8,17 +8,16 @@
     - **Benchmark adobeXd ,Figma, sketch**
         
         
-        ![Untitled](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/Untitled.png)
-        
         # Comparaison des tendances Google
         
         🔗 [google trends compare](https://trends.google.com/trends/explore?geo=MA&q=adobe%20xd,figma,sketch) 
         
-        ![tools compare.png](Abstract%20team%20%F0%9F%8E%8F%208eb4032a378948679c6047e197a7433a/tools_compare.png)
-        
         # ****Figma vs. Sketch vs. Adobe XD****
         
-        
+        <div style="width:100px">
+        <img  src="https://user-images.githubusercontent.com/86893073/193075320-d06807e6-a626-4b1c-852c-62c71a9f34c9.png" width="400em" /> 
+      
+        </div>
         
         # ****Dois-je apprendre Figma, Sketch ou Adobe XD?****
         
@@ -103,7 +102,7 @@
             
         - **mockup**
             
-            # **Mock up : interactions de l’interface**
+             **Mock up : interactions de l’interface**
             
             Le **mock up** ajoute une dimension interactive au wireframe pour montrer notamment l’enchainement et la navigation entre les pages, le comportement des boutons, l’affichage de messages d’erreur des formulaires, les sliders… Avec le mock up, on va pouvoir vérifier la cohérence du parcours de l’utilisateur et scénariser les interactions avec l’application.
             
